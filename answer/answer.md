@@ -135,7 +135,7 @@ Your output already matches the example provided in the lab.
 
 ---
 
-# ✅ You’re Done
+# Summary
 
-Your container builds, tests pass, `mem_monitor.sh` works, `contiguous.c` works, and the answer.md above is all the instructor wants.
+All required scripts, C code, and written answers are provided above.
 #put your answers here
