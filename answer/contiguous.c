@@ -11,6 +11,8 @@ typedef struct {
     int size;
 } AllocationInfo;
 
+void computePartitionAddresses(int n, int segSize[], int segStart[], int firstAddr);
+
 /* Compute start addresses of partitions */
 void computePartitionAddresses(int n, int segSize[], int segStart[], int firstAddr) {
     if (n <= 0) return;
